@@ -1,0 +1,23 @@
+#gitbtn {
+    color: white;
+    background-color: green;
+    border: 1px solid white;
+    padding: 5px;
+    border-radius: 40px;
+    font-weight: 700;
+}
+
+nav {
+    background-color: #1D293B;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 50px;
+    padding: 0 10vw;
+    width: 100vw;
+}
+
+.tfont {
+    font-weight: 900;
+    font-size: larger;
+}

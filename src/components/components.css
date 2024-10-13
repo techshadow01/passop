@@ -1,0 +1,31 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: #D1FAE5;
+}
+
+.box {
+    border-radius: 40px;
+    border: 1px solid green;
+    padding: 0 10px;
+}
+
+.thcell {
+    height: 40px;
+    text-align: center;
+    background-color: #166534;
+    font-weight: bold;
+    color: white;
+    border-right: 1px solid white;
+    padding: 0 5px;
+}
+
+.trcell {
+    min-height: 40px;
+    background-color: #86EFAC;
+    border-right: 1px solid white;
+    padding: 0 5px;
+}
